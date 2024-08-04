@@ -1,7 +1,7 @@
 
 # Auto-Commit Bot
 
-![Python version](https://img.shields.io/badge/python-3.6%2B-blue) ![GitHub license](https://img.shields.io/github/license/Hamed-Gharghi/Auto-Commit-Bot) ![](https://komarev.com/ghpvc/?username=Hamed-Gharghi&color=green&style=flat-square)
+![Python version](https://img.shields.io/badge/python-3.6%2B-blue) ![GitHub license](https://img.shields.io/github/license/Hamed-Gharghi/Auto-Commit-Bot-Github) ![](https://komarev.com/ghpvc/?username=Hamed-Gharghi&color=green&style=flat-square)
 
 ## Description
 
