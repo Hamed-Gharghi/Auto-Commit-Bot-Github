@@ -1,4 +1,3 @@
-
 # Auto-Commit Bot
 
 ![Python version](https://img.shields.io/badge/python-3.6%2B-blue) ![GitHub license](https://img.shields.io/github/license/Hamed-Gharghi/Auto-Commit-Bot-Github) ![](https://komarev.com/ghpvc/?username=Hamed-Gharghi&color=green&style=flat-square)
@@ -15,7 +14,7 @@
 
 ## Badges
 
-- **CI Workflow Status:** ![GitHub Actions](https://img.shields.io/github/workflow/status/Hamed-Gharghi/Auto-Commit-Bot/CI)
+- **CI Workflow Status:** ![GitHub Actions](https://img.shields.io/github/workflow/status/Hamed-Gharghi/Auto-Commit-Bot-Github/CI)
 
 ## Tags
 
@@ -37,8 +36,8 @@ To use the Auto-Commit Bot, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Hamed-Gharghi/Auto-Commit-Bot.git
-   cd Auto-Commit-Bot
+   git clone https://github.com/Hamed-Gharghi/Auto-Commit-Bot-Github.git
+   cd Auto-Commit-Bot-Github
    ```
 
 2. **Configure the Script:**
@@ -73,4 +72,3 @@ If you have suggestions for improvements or want to contribute, please fork the 
 - **Author:** Hamed Gharghi
 - **Email:** [Hamedgharghi1@gmail.com](mailto:Hamedgharghi1@gmail.com)
 - **GitHub:** [Hamed-Gharghi](https://github.com/Hamed-Gharghi)
-
