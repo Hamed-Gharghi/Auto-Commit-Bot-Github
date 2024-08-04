@@ -1,6 +1,6 @@
 # Auto-Commit Bot
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Hamed-Gharghi/Daily-Python?style=social) ![GitHub forks](https://img.shields.io/github/forks/Hamed-Gharghi/Daily-Python?style=social) ![GitHub issues](https://img.shields.io/github/issues/Hamed-Gharghi/Daily-Python) ![GitHub license](https://img.shields.io/github/license/Hamed-Gharghi/Daily-Python)
+ ![Python version](https://img.shields.io/badge/python-3.6%2B-blue)  ![GitHub license](https://img.shields.io/github/license/Hamed-Gharghi/Daily-Python)
 
 ## Description
 
@@ -25,6 +25,10 @@ The **Auto-Commit Bot** is a Python script designed to automate the process of g
 - **Automated Git Operations**
 - **Scheduled Tasks**
 - **Programming**
+
+## Python Version
+
+- **Python 3.6 or higher** is required to run this script.
 
 ## Getting Started
 
@@ -69,6 +73,4 @@ If you have suggestions for improvements or want to contribute, please fork the 
 - **Email:** [Hamedgharghi1@gmail.com](mailto:Hamedgharghi1@gmail.com)
 - **GitHub:** [Hamed-Gharghi](https://github.com/Hamed-Gharghi)
 
----
 
-Feel free to adjust any placeholders or add more information as needed for your specific use case!
