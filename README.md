@@ -18,7 +18,7 @@
 ## Badges
 
 - **Build Status**: ![Build Status](https://img.shields.io/github/workflow/status/Hamed-Gharghi/Auto-Commit-Bot-Github/CI)
-- **Version**: ![Version](https://img.shields.io/badge/version-1.0.1-brightgreen)
+- **Version**: ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.1-brightgreen)
 - **License**: ![License](https://img.shields.io/github/license/Hamed-Gharghi/Auto-Commit-Bot-Github)
 
 ## Tags
